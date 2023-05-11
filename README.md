@@ -6,4 +6,4 @@ All My projects list is here that I created.
 ## 3. DEV.TO Clone
 ## 4. Youtube Clone
 ## 5. Crypto Dash
-## Markdown Editor
+## 6. Markdown Editor
