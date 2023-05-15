@@ -7,3 +7,4 @@ All My projects list is here that I created.
 ## 4. Youtube Clone
 ## 5. Crypto Dash
 ## 6. Markdown Editor
+## 7. Job Search App
